@@ -34,4 +34,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/weather.
 
-And to use weather app you must type in your Terminal weather 31206 and hit enter
+And to use weather app you must type in your Terminal, weather 31206 and hit enter
